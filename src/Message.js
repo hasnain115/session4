@@ -2,6 +2,6 @@ import React from 'react';
 
 export function Message (props){
     return(
-        <h3>Value of counter variable is: {props.counter}</h3>
+        <h3>counter: {props.counter}</h3>
     )
 }
